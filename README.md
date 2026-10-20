@@ -1,5 +1,3 @@
-## Hi there 👋
-
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=190&section=header&text=Ismail%20Ourdou&fontSize=44&fontColor=ffffff&desc=Junior%20Software%20%26%20AI%20Developer&descSize=18&descAlignY=68" width="100%" />
 
 <p align="center">
