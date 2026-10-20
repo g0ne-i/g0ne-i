@@ -136,14 +136,6 @@ I enjoy building useful software and AI solutions, from full-stack applications 
   <img src="https://img.shields.io/badge/Odoo-Business%20Applications-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 </p>
 
-### 🧰 Development & Project Management Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma&perline=2" alt="Visual Studio Code and Figma" />
-  <img src="https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Agile-Development%20Methodology-0F766E?style=for-the-badge" alt="Agile" />
-</p>
-
 
 ## 📫 Connect With Me
 
