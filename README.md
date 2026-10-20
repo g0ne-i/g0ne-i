@@ -4,10 +4,6 @@
     width="100%"
     alt="Ismail Ourdou - Junior Software and AI Developer"
   />
-</p>
-<p align="center">
-  <img src="https://github.com/g0ne-i.png" width="120" alt="GitHub avatar for Ismail Ourdou" />
-</p>
 
 <p align="center">
   <a href="https://github.com/g0ne-i">
