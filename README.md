@@ -31,23 +31,6 @@ I'm **Ismail Ourdou**, a Junior Software & AI Developer based in Rabat, Morocco.
 
 I enjoy building useful software and AI solutions, from full-stack applications to document intelligence, workflow automation, data pipelines, and predictive analytics.
 
-## 💼 Experience
-
-### DarbTech — Graduation Internship / BUT Capstone
-
-*Rabat, Morocco · April 2026 – September 2026*
-
-- Developed custom Odoo modules, a RAG-based AI chatbot, and n8n automation workflows.
-- Worked on OCR-based invoice processing and contact fuzzy matching.
-- Implemented ETL pipelines, Odoo SaaS data migration, and Power BI dashboards.
-- Contributed to business intelligence and predictive analytics using adaptive seasonal forecasting in an Agile environment.
-
-### 2PI e-learning — Graduation Internship / DUT Capstone
-
-*Rabat, Morocco · April 2025 – June 2025*
-
-- Built a mobile application and an automated CRM module driven by a WhatsApp AI agent.
-- Supported background conversation analysis and real-time lead tracking.
 
 ## 🚀 Projects
 
