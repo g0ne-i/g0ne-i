@@ -68,7 +68,7 @@ I enjoy building useful software and AI solutions, from full-stack applications 
 <p>
   <img src="https://img.shields.io/badge/Java%20EE-Framework-5382A1?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Java EE" />
   <img src="https://img.shields.io/badge/XML-Markup%20Language-0060AC?style=for-the-badge" alt="XML" />
-  <img src="https://shields.io" alt="React Native" />
+  <img src="https://skillicons.dev" alt="React Native" />
 </p>
 
 ### 🗄️ Databases
