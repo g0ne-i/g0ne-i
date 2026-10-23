@@ -62,12 +62,13 @@ I enjoy building useful software and AI solutions, from full-stack applications 
 ### ⚛️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,reactnative,laravel,spring,django,fastapi,flask&perline=9" alt="Angular, React, Next.js, React Native, Laravel, Spring, Django, FastAPI, Flask" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,reactnative,laravel,spring,django,fastapi,flask&perline=9" alt="Angular, React, Next.js, Laravel, Spring, Django, FastAPI, Flask" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Java%20EE-Framework-5382A1?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Java EE" />
   <img src="https://img.shields.io/badge/XML-Markup%20Language-0060AC?style=for-the-badge" alt="XML" />
+  <img src="https://shields.io" alt="React Native" />
 </p>
 
 ### 🗄️ Databases
